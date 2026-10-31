@@ -1,0 +1,14 @@
+### Create a product
+POST http://localhost:8080/api/products
+Content-Type: application/json
+Accept: application/json
+
+{
+  "sku": "MOBILE-002",
+  "name": "Samsung Mobile",
+  "description": "Samsung Android smartphone",
+  "price": 25000.00,
+  "stockQuantity": 10
+}
+
+
