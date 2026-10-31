@@ -1,0 +1,3 @@
+### Process payment
+
+GET localhost:8083/processPayment
